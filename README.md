@@ -119,11 +119,6 @@ Set peak_detector.v as Top
 
 ---
 
-## 👨‍💻 Author
-
-**Divyesh Gupta**
-
----
 
 ## ⭐ Support
 
